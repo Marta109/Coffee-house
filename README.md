@@ -1,4 +1,4 @@
-## Coffee house 
+## Coffee house  
 Coffee House is a project where you will need to create a website consisting of two pages, make it responsive, and add interactivity.   
 1.Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md    
 2. Deploy: https://rolling-scopes-school.github.io/marta109-JSFE2023Q4/coffee-house/home.html      
